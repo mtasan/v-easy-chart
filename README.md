@@ -36,13 +36,13 @@ import 'v-easy-chart'
 ```
 
 ## Props
-divid = id of div which chart will generate
+**divid** = id of div which chart will generate
 
-heightValue = height of chart
+**heightValue** = height of chart
 
-data = data whichh will be visualize.
+**data** = data which will be visualize.
 
-pieChartType = "pie" or "donut"
+**pieChartType** = "pie" or "donut"
 
 
 ## PIE

@@ -1,6 +1,6 @@
 {
   "name": "v-easy-chart",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "private": false,
   "description": "vuejs charts library demo",
   "main": "./dist/easychart.common.js",
