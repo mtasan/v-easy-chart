@@ -1,6 +1,6 @@
 {
   "name": "v-easy-chart",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "private": false,
   "description": "vuejs charts library demo",
   "main": "./dist/easychart.common.js",
@@ -73,5 +73,6 @@
     "pie",
     "bar"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/mtasan/v-easy-chart"
 }

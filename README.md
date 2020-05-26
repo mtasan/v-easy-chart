@@ -47,11 +47,11 @@ pieChartType = "pie" or "donut"
 
 ##PIE
 
-![](https://github.com/mtasan/v-easy-chart/blob/master/src/assets/pie.PNG)
+![](https://github.com/mtasan/v-easy-chart/raw/master/src/assets/pie.PNG)
 
 ##DONUT
 
-![](https://github.com/mtasan/v-easy-chart/blob/master/src/assets/donut.PNG)
+![](https://github.com/mtasan/v-easy-chart/raw/master/src/assets/donut.PNG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
