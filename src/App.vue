@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <PieChart divid="divpie" :heightValue="height" :data="chartData" pieChartType="pie"></PieChart>
+    <PieChart divid="divpie" :heightValue="height" :data="chartData" pieChartType="donut"></PieChart>
   </div>
 </template>
 

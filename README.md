@@ -45,11 +45,11 @@ data = data whichh will be visualize.
 pieChartType = "pie" or "donut"
 
 
-##PIE
+## PIE
 
 ![](https://github.com/mtasan/v-easy-chart/raw/master/src/assets/pie.PNG)
 
-##DONUT
+## DONUT
 
 ![](https://github.com/mtasan/v-easy-chart/raw/master/src/assets/donut.PNG)
 
